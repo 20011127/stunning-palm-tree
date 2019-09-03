@@ -1,5 +1,5 @@
 # stunning-palm-tree
-stunning-palm-tree
+stunnin-palm-tree
 
 poney
 
